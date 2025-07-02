@@ -6,6 +6,7 @@ This program first scraps news articles from a provided RSS feed using the Newsp
 
 ## Example Usage
 In this useage example, we will be using a RSS feed provided by Sydney Morning Herald (https://www.smh.com.au/rss/feed.xml) as well as setting the number of clusters to 5
+
 ![topicfy-your-news-img2](https://github.com/user-attachments/assets/210426d2-ac00-43d3-84b2-8cf52c7f5a2c)
 
 ## Future Improvements
